@@ -1,0 +1,16 @@
+.display{
+    border: 1px solid rgb(218, 213, 213);
+    border-radius: 5px;
+    width: 250px;
+     background-color: rgb(192, 190, 190);
+      box-shadow: 3px 3px 8px 2px rgb(37, 36, 36); 
+}
+.centeringContent{
+     display:flex;
+     justify-content:center;
+     align-items:center; 
+     height:100vh
+}
+.heading{
+    margin: auto;
+}
